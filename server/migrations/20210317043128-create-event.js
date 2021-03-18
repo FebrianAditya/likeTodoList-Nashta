@@ -15,7 +15,7 @@ module.exports = {
         type: Sequelize.STRING
       },
       participant: {
-        type: Sequelize.ARRAY(Sequelize.TEXT)
+        type: Sequelize.STRING
       },
       date: {
         type: Sequelize.DATEONLY

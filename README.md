@@ -1,1 +1,5 @@
 # likeTodoList-Nashta
+
+Test pengerjaan untuk client-side ini menggunakan Library ReactJs dengan state managment menggunakan Redux, dan react-router-dom untuk pindah-pindah halaman, karena tidak sempat waktu untuk deploy maka untuk menjalankannya masih di localhost dengan cara "npm start" di pwd client.
+Ketika pengerjaan di client-side semuanya based on components (/client/src/components), components yang dibuat maka disatukan didalam pages (di dalam folder pages terdapat banyak page-page yang di render sesuai page yang direncanakan).
+Lalu untuk server-sidenya menggunakan NodeJs dengan framework ExpressJs, ORM Sequelize, lalu databasenya menggunakan PostgreSQL, dan menggunakan untuk CORS untuk berinteraksi lintas sumber antara client-side dan server-side agar tidak terkena Blocked. Masih sama dengan kendala waktu project ini tidak sempat di deploy untuk server-side nya (masih di localhost), jadi untuk menjalankannya dengan cara "nodemon app.js" di pwd server. Saya yakin project ini masih bisa dikembangkan dan disempurnakan dari sisi UI dan server-side nya ketika waktu yang diberikan sedikit lebih lama.

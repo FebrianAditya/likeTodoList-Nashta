@@ -1,0 +1,7 @@
+.form-row{
+    display: flex;
+}
+
+.inputA input{
+    margin: 2%;
+}
