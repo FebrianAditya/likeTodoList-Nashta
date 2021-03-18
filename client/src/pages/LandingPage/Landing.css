@@ -1,0 +1,7 @@
+.cobain {
+    display: flex;
+}
+.cobainDua {
+    flex-wrap: wrap;
+    /* flex-direction: row; */
+}

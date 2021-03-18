@@ -1,0 +1,5 @@
+export { default as NavbarComponent } from "./NavbarComponent/NavbarComponent"
+export { default as FormComponent } from "./FormComponent/FormComponent"
+export { default as CardComponent } from "./CardComponent/CardComponent"
+export { default as TableComponent } from "./TableComponent/TableComponent"
+export { default as SearchComponent } from "./SearchComponent/SearchComponent"

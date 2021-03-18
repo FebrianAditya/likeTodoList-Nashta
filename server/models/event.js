@@ -33,7 +33,7 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
     participant: {
-      type: DataTypes.ARRAY(Sequelize.TEXT),
+      type: DataTypes.STRING,
       validate: {
         notEmpty: {
           args: true,
